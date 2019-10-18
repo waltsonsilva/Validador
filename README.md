@@ -1,10 +1,6 @@
 # Validador
 
 <h3>Tecnologias utilizadas</h3>
-    <ul>
-      <li> <a href="https://projectlombok.org" target="_blank">Documentação</a> </li>
-    </ul>
-  </li>
   <li>JAVA
     <ul>
 	<li>Versão: 7</li>
