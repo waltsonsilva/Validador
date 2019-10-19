@@ -8,7 +8,9 @@
     </ul>
     <ul>
 	<li> Como executar</li>
-      <li> é uma aplicação simples em java na qual pode ser exacutada diretamento pelo cmd ou através da IDE.</li>
+      <li> é uma aplicação simples em java na qual pode ser exacutada diretamento pelo cmd ou através da IDE.
+      	Caso execute pelo cmd basta apenas executar os comando javac ExecutaValidador.java e posteriormente executar java ExecutaValidador.class e para o caso de executar através de IDE,deve apenas ir na classe ExecutaValidador e executar o JavaAppalication.
+      	</li>
     </ul>
   </li>
 </ul>
