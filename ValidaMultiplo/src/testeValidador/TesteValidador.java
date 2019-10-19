@@ -48,6 +48,21 @@ public class TesteValidador extends TestCase {
 		
 	}
 	
+	@Test
+	public void testCaseCT05(){
+		int numero = 30;
+		boolean resultado = true;
+		
+		boolean retorno;
+		
+		if (validaM3.validaM3(numero) == true && validaM5.validaM5(numero) == true) {
+			 retorno = true;
+		}else {
+			retorno = false;
+		}
+		assertEquals(resultado, retorno);
+		
+	}
 	
 
 }

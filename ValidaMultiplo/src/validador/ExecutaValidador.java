@@ -4,6 +4,12 @@ import validadorInterface.IValidador;
 
 public class ExecutaValidador implements IValidador {
 
+	public static void main(String[] args) {
+		int numero = 30;
+		ExecutaValidador executaValidador = new ExecutaValidador();
+		executaValidador.validaM(numero);
+	}
+	
 	@Override
 	public void validaM(int numero) {
 		ValidadorM3 validaM3 = new ValidadorM3();
